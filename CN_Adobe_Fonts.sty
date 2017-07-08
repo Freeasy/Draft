@@ -1,0 +1,36 @@
+\NeedsTeXFormat{LaTeX2e}[1994/06/01]
+%\ProvidesPackage{CN_Adobe_Fonts}[2016/05/11 zh_CN-Adobefonts_internal Package]
+
+\RequirePackage{fontspec}
+\RequirePackage{xeCJK}
+
+% https://github.com/boathit/CTEX/blob/master/texmf/tex/latex/ctex/fontset/ctex-xecjk-adobefonts.def
+% ctex-xecjk-adobefonts.def: Adobe �0�4�0�6�0�4 xeCJK �0�2�0�2�0�3�0�1�0�4�0�9���0�3�0�0�0�4�0�4�0�3�0�7�0�3�0�2�0�1�0�6�0�2 Adobe �0�4�0�6�0�4�0�2�0�7�0�7�0�2�0�6�0�3�0�2�0�2�0�3�0�1�0�4�0�9
+% vim:ft=tex
+
+%\defaultfontfeatures{Path = fonts/zh_CN-Adobe/, Mapping=tex-text}
+%\defaultfontfeatures{Path = /Users/xiaozhou/Library/Fonts/, Mapping=tex-text}
+
+%\defaultfontfeatures{Path = /opt/X11/share/fonts/OTF/, Mapping=tex-text}
+\defaultfontfeatures{ Mapping=tex-text}  
+
+
+\setCJKmainfont[
+BoldFont=AdobeHeitiStd-Regular.otf,
+ItalicFont=AdobeKaitiStd-Regular.otf,
+SmallCapsFont=AdobeHeitiStd-Regular.otf
+]{AdobeSongStd-Light.otf}
+\setCJKsansfont{AdobeHeitiStd-Regular.otf}
+\setCJKmonofont{AdobeFangsongStd-Regular.otf}
+
+\setCJKfamilyfont{zhsong}{AdobeSongStd-Light.otf}
+\setCJKfamilyfont{zhhei}{AdobeHeitiStd-Regular.otf}
+\setCJKfamilyfont{zhfs}{AdobeFangsongStd-Regular.otf}
+\setCJKfamilyfont{zhkai}{AdobeKaitiStd-Regular.otf}
+
+\newcommand*{\songti}{\CJKfamily{zhsong}} % �0�2�0�3�0�1�0�1�0�4�0�9
+\newcommand*{\heiti}{\CJKfamily{zhhei}}   % ���0�3�0�7�0�1�0�4�0�9
+\newcommand*{\kaishu}{\CJKfamily{zhkai}}  % �0�3�0�6���0�1�0�1�0�7
+\newcommand*{\fangsong}{\CJKfamily{zhfs}} % �0�1�0�3�0�7�0�2�0�3�0�1
+
+\endinput
