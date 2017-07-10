@@ -1,0 +1,168 @@
+\begin{thebibliography}{10}
+
+\bibitem{Rey1883}
+O. Reynolds, {\em An experimental investigation of the circumstances which
+  determine whether the motion of water shall be direct or sinuous, and of the
+  law of resistance in parallel channels.}, Proc. R. Soc. Lond. {\bf 35},  84
+  (1883).
+
+\bibitem{SK16}
+M. Sano and K. Tamai, {\em A universal transition to turbulence in channel
+  flow}, Nat. Phys. {\bf 12},  249  (2016).
+
+\bibitem{SHG16}
+H.-Y. Shih, T.-L. Hsieh, and N. Goldenfeld, {\em Ecological collapse and the
+  emergence of travelling waves at the onset of shear turbulence}, Nat. Phys.
+  {\bf 12},  245  (2016).
+
+\bibitem{LSAJAH16}
+G. Lemoult, L. Shi, K. Avila, S.~V. Jalikop, M. Avila, and B. Hof, {\em
+  Directed percolation phase transition to sustained turbulence in Couette
+  flow}, Nat. Phys. {\bf 12},  254  (2016).
+
+\bibitem{Ba16}
+D. Barkley, {\em Theoretical perspective on the route to turbulence in a
+  pipe.}, J. Fluid Mech. {\bf 803},  P1  (2016).
+
+\bibitem{BSMLAH15}
+D. Barkley, B. Song, V. Mukund, G. Lemoult, M. Avila, and B. Hof, {\em The rise
+  of fully turbulent flow.}, Nature {\bf 526},  550  (2015).
+
+\bibitem{AMRH13}
+M. Avila, F. Mellibovsky, N. Roland, and B. Hof, {\em Streamwise-localized
+  solutions at the onset of turbulence in pipe flow.}, Phys. Rev. Lett. {\bf
+  110},  224502  (2013).
+
+\bibitem{AMLABH11}
+K. Avila, D. Moxey, A. de~Lozar, M. Avila, D. Barkley, and B. Hof, {\em The
+  Onset of Turbulence in Pipe Flow}, Science {\bf 333},  192  (2011).
+
+\bibitem{HLATS10}
+B. Hof, A. de~Lozar, M. Avila, X. Tu, and T.~M. Schneider, {\em Eliminating
+  Turbulence in Spatially Intermittent Flows}, Science {\bf 327},  1491
+  (2010).
+
+\bibitem{ESHW07}
+B. Eckhardt, T.~M. Schneider, B. Hof, and J. Westerweel, {\em Turbulence
+  Transition in Pipe Flow}, Annu. Rev. Fluid Mech. {\bf 39},  447–68  (2007).
+
+\bibitem{Kr62}
+R.~H. Kraichnan, {\em Turbulent thermal convection at arbitrary {{Prandtl}}
+  number}, Phys. Fluids {\bf 5},  1374  (1962).
+
+\bibitem{Sp71}
+E.~A. Spiegel, {\em Convection in stars}, Ann. Rev. Astron. Astrophys. {\bf 9},
+   323  (1971).
+
+\bibitem{AGL09}
+G. Ahlers, S. Grossmann, and D. Lohse, {\em Heat transfer and large scale
+  dynamics in turbulent {Rayleigh}-{B\'enard} convection}, Rev. Mod. Phys. {\bf
+  81},  503  (2009).
+
+\bibitem{Ah09}
+G. Ahlers, {\em Turbulent convection}, Physics {\bf 2},  74  (2009).
+
+\bibitem{GL00}
+S. Grossmann and D. Lohse, {\em Scaling in thermal convection: A unifying
+  view}, J. Fluid. Mech. {\bf 407},  27  (2000).
+
+\bibitem{GL01}
+S. Grossmann and D. Lohse, {\em Thermal convection for large {{Prandtl}}
+  number}, Phys. Rev. Lett. {\bf 86},  3316  (2001).
+
+\bibitem{CCCHCC97}
+X. Chavanne, F. Chilla, B. Castaing, B. Hebral, B. Chabaud, and J. Chaussy,
+  {\em Observation of the ultimate regime in {{Rayleigh-B\'enard}} convection},
+  Phys. Rev. Lett. {\bf 79},  3648  (1997).
+
+\bibitem{CCCCH01}
+X. Chavanne, F. Chilla, B. Chabaud, B. Castaing, and B. Hebral, {\em Turbulent
+  {{Rayleigh-B\'enard}} convection in gaseous and liquid He}, Phys. Fluids {\bf
+  13},  1300  (2001).
+
+\bibitem{NSSD00}
+J.~J. Niemela, L. Skrbek, K.~R. Sreenivasan, and R. Donnelly, {\em Turbulent
+  convection at very high {{Rayleigh}} numbers}, Nature {\bf 404},  837
+  (2000).
+
+\bibitem{HFNBA12}
+X. He, D. Funfschilling, H. Nobach, E. Bodenschatz, and G. Ahlers, {\em
+  Transition to the Ultimate State of Turbulent {Rayleigh-Be\'nard}
+  Convection}, Phys. Rev. Lett. {\bf 108},  024502  (2012).
+
+\bibitem{HFBA12}
+X. He, D. Funfschilling, E. Bodenschatz, and G. Ahlers, {\em Heat transport by
+  turbulent {Rayleigh}-{B\'enard} convection for {Pr} $\simeq 0.8$ and $4\times
+  10^{11} \alt$ {Ra} $\alt 2\times10^{14}$: Ultimate-state transition for
+  aspect ratio {$\Gamma = 1.00$}}, New J. Phys. {\bf 14},  063030  (2012).
+
+\bibitem{AHFB12}
+G. Ahlers, X. He, D. Funfschilling, and E. Bodenschatz, {\em Heat transport by
+  turbulent {Rayleigh-B\'enard} convection for {Pr} $\simeq 0.8$ and $3\times
+  10^{12} \alt$ {Ra} $\alt 10^{15}$: Aspect ratio {${\Gamma}$} $= 0.50$}, New
+  J. Phys. {\bf 14},  103012  (2012).
+
+\bibitem{LL63}
+L.~D. Landau and E.~M. Lifshitz, {\em Fluid Mechanics (3rd impression)}
+  (Pergamon Press, Oxford, 1963).
+
+\bibitem{AFB09}
+G. Ahlers, D. Funfschilling, and E. Bodenschatz, {\em Transitions in heat
+  transport by turbulent convection for {Pr} $= 0.8$ and $10^{11} \leq$ {Ra}
+  $\leq 10^{15}$}, New J. Phys. {\bf 11},  123001  (2009).
+
+\bibitem{SBPS16}
+J. Schumacher, V. Bandaru, A. Pandey, and J. Scheel, {\em Transitional boundary
+  layers in low-Prandtl-number convection}, Phys. Rev. Fluids {\bf 1},  084402
+  (2016).
+
+\bibitem{ABH17}
+G. Ahlers, E. Bodenschatz, and X. He, {\em Ultimate-state transition of
+  turbulent Rayleigh-B{\'{e}}nard convection}, Phys. Rev. F {\bf 2},    (2017).
+
+\bibitem{QT01a}
+X.~L. Qiu and P. Tong, {\em Large scale velocity structures in turbulent
+  thermal convection}, Phys. Rev. E {\bf 64},  036304  (2001).
+
+\bibitem{BA06a}
+E. Brown and G. Ahlers, {\em Rotations and cessations of the large-scale
+  circulation in turbulent {{Rayleigh-B{\'e}nard}} convection}, J. Fluid Mech.
+  {\bf 568},  351  (2006).
+
+\bibitem{HBA16}
+X. He, E. Bodenschatz, and G. Ahlers, {\em Azimuthal diffusion of the
+  large-scale-circulation plane, and absence of significant non-Boussinesq
+  effects, in turbulent convection near the ultimate-state transition.}, J.
+  Fluid Mech. {\bf 791},  R3  (2016).
+
+\bibitem{BA06b}
+E. Brown and G. Ahlers, {\em Effect of the {{Earth's}} {{Coriolis}} force on
+  turbulent {{Rayleigh-B{\'e}nard}} convection in the laboratory}, Phys. Fluids
+  {\bf 18},  125108  (2006).
+
+\bibitem{ABFGHLSV12}
+G. Ahlers, E. Bodenschatz, D. Funfschilling, S. Grossmann, X. He, D. Lohse, R.
+  Stevens, and R. Verzicco, {\em Logarithmic temperature profiles in turbulent
+  {Rayleigh-B\'enard} convection}, Phys. Rev. Lett. {\bf 109},  114501  (2012).
+
+\bibitem{ABH14}
+G. Ahlers, E. Bodenschatz, and X. He, {\em Logarithmic temperature profiles of
+  turbulent {Rayleigh-B\'enard} convection in the classical and ultimate state
+  for a {P}randtl number of 0.8}, J. Fluid Mech. {\bf 758},  436  (2014).
+
+\bibitem{SPGL13}
+R.~J. A.~M. Stevens, E.~P. van~der Poel, S. Grossmann, and D. Lohse, {\em The
+  unifying theory of scaling in thermal convection: The updated prefactors}, J.
+  Fluid Mech. {\bf 730},  295  (2013).
+
+\bibitem{WHT16}
+Y. Wang, X. He, and P. Tong, {\em Boundary layer fluctuations and their effects
+  on mean and variance temperature profiles in turbulent Rayleigh-B{\'{e}}nard
+  convection}, Phys. Rev. Fluids {\bf 1},    (2016).
+
+\bibitem{SHWC15}
+O. Shishkina, S. Horn, S. Wagner, and E. Ching, {\em Thermal Boundary Layer
+  Equation for Turbulent Rayleigh-B\'enard Convection}, Phys. Rev. Lett. {\bf
+  114},  114302  (2015).
+
+\end{thebibliography}
